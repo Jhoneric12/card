@@ -1,0 +1,51 @@
+/* .main-container {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card-container {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 50px 100px 50px 100px;
+}
+.kian {
+    width: 250px;
+    height: 150px;
+    border-radius: 50%;
+}
+h1, p {
+    text-align: center;
+}
+h1 {
+    color: rgb(0,0,0);
+    font-size: 48px;
+}
+.sub-title {
+    color: rgb(128, 128, 128);
+    font-size: 24px;
+}
+.sub {
+    color: rgb(0,0,0);
+    font: 18px;
+    font-weight: bold;
+}
+.footer-container {
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px 0 20px 0;
+    margin-top: 40px;
+    background-color: rgb(0,0,0);
+    color: white;
+}
+.footer-container:hover {
+    background-color: rgb(128, 128, 128);
+} */
+
+
+
+/* Navigation Bar */
+
+
