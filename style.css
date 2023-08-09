@@ -1,4 +1,4 @@
-/* .main-container {
+.main-container {
     border: 1px solid black;
     display: flex;
     justify-content: center;
@@ -42,10 +42,9 @@ h1 {
 }
 .footer-container:hover {
     background-color: rgb(128, 128, 128);
-} */
+} 
 
 
 
-/* Navigation Bar */
 
 
